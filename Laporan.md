@@ -113,3 +113,4 @@
 5. Fungsi pada Controller akan memanggil view sesuai halaman yang akan ditampilkan.
 6. Simpan setiap perubahan yang dilakukan pada project POS pada Git, sinkronisasi
    perubahan ke Github.
+   https://github.com/Fikuraru72/Point-Of-Sale 
